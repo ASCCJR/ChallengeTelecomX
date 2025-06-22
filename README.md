@@ -76,7 +76,7 @@ Este conjunto de gráficos de barras detalha a taxa de Churn para diversas outra
 
 ![Taxa de Churn por Diversas Variáveis Categóricas](imagens/IMAGEM%206.png)
 
-## 🚀 Próximos Passos (Modelagem Preditiva)
+## 📈 Próximos Passos (Modelagem Preditiva)
 
 Esta análise exploratória fornece uma base sólida. O próximo estágio é o desenvolvimento de um **Modelo Preditivo de Churn**, que permitirá à TelecomX:
 
