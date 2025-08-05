@@ -19,7 +19,7 @@ Este repositório está organizado para facilitar a compreensão e a execução 
   * **`README.md`**: Este arquivo, que você está lendo, fornece uma visão geral do projeto, seus objetivos, estrutura e instruções de uso.
   * **`telecom_data_transformed.csv`**: O resultado do pipeline de ETL. Este arquivo CSV contém o dataset limpo, normalizado e com variáveis categóricas codificadas (One-Hot Encoded), pronto para ser utilizado em modelos de Machine Learning.
   * **`imagens/`**: Esta pasta armazena as visualizações geradas durante a EDA e utilizadas para ilustrar os insights no README.
-      * `IMAGEM 1.png`: Gráfico da Taxa de Churn por Tipo de Contrato.
+      * `IMAGEM_1.png`: Gráfico da Taxa de Churn por Tipo de Contrato.
       * `IMAGEM 2.png`: Gráfico da Taxa de Churn por Número de Serviços Contratados.
       * `IMAGEM 3.png`: Heatmap de Correlação das Variáveis com o Churn.
 
@@ -38,7 +38,7 @@ O projeto foi desenvolvido em Python e utiliza as seguintes bibliotecas:
 A Análise Exploratória de Dados (EDA) revelou padrões cruciais sobre o comportamento de Churn dos clientes da TelecomX. A taxa de churn na base de dados analisada é de aproximadamente 26.57%. Abaixo, apresentamos os gráficos mais relevantes e seus insights:
 
 ### 1\. Taxa de Churn por Tipo de Contrato
-![Taxa de Churn por Tipo de Contrato](IMAGEM_1.png)
+![](IMAGEM_1.png)
 
 Este gráfico é fundamental para entender a relação entre o tipo de contrato do cliente e sua propensão ao cancelamento.
 
