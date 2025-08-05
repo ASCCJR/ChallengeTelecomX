@@ -38,7 +38,7 @@ O projeto foi desenvolvido em Python e utiliza as seguintes bibliotecas:
 A Análise Exploratória de Dados (EDA) revelou padrões cruciais sobre o comportamento de Churn dos clientes da TelecomX. A taxa de churn na base de dados analisada é de aproximadamente 26.57%. Abaixo, apresentamos os gráficos mais relevantes e seus insights:
 
 ### 1\. Taxa de Churn por Tipo de Contrato
-![Taxa de Churn por Tipo de Contrato](IMAGEM%201.png)
+![Taxa de Churn por Tipo de Contrato](IMAGEM_1.png)
 
 Este gráfico é fundamental para entender a relação entre o tipo de contrato do cliente e sua propensão ao cancelamento.
 
