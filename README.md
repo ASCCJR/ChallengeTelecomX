@@ -20,8 +20,8 @@ Este repositório está organizado para facilitar a compreensão e a execução 
   * **`telecom_data_transformed.csv`**: O resultado do pipeline de ETL. Este arquivo CSV contém o dataset limpo, normalizado e com variáveis categóricas codificadas (One-Hot Encoded), pronto para ser utilizado em modelos de Machine Learning.
   * **`imagens/`**: Esta pasta armazena as visualizações geradas durante a EDA e utilizadas para ilustrar os insights no README.
       * `IMAGEM_1.png`: Gráfico da Taxa de Churn por Tipo de Contrato.
-      * `IMAGEM 2.png`: Gráfico da Taxa de Churn por Número de Serviços Contratados.
-      * `IMAGEM 3.png`: Heatmap de Correlação das Variáveis com o Churn.
+      * `IMAGEM_2.png`: Gráfico da Taxa de Churn por Número de Serviços Contratados.
+      * `IMAGEM_3.png`: Heatmap de Correlação das Variáveis com o Churn.
 
 ## ⚙️ Tecnologias e Bibliotecas
 
@@ -52,6 +52,7 @@ Esta visualização ilustra como a quantidade de serviços que um cliente possui
   * **Insight:** Há uma clara tendência de diminuição da taxa de churn à medida que o número de serviços contratados aumenta, o que indica que clientes com muitos serviços são mais leais. Clientes com 1 serviço têm uma taxa de churn de 34.52%, que atinge um pico com 2 serviços (37.72%). Em contrapartida, clientes com 7 serviços apresentam a menor taxa de churn, de **5.29%**.
 
 ### 3\. Matriz de Correlação com o Churn (Heatmap)
+![](IMAGEM_3.png)
 
 O heatmap de correlação permite visualizar a força e a direção da relação linear entre cada variável e a variável alvo `Churn`.
 
