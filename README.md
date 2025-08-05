@@ -45,6 +45,7 @@ Este gráfico é fundamental para entender a relação entre o tipo de contrato 
   * **Insight:** Clientes com contratos **Mês a Mês** são os mais propensos ao Churn, com uma taxa de **42.71%**. Em contraste, clientes com contratos anuais ou bienais têm uma taxa de churn significativamente mais baixa, de **6.78%**. Isso sugere que a fidelização por meio de contratos mais longos é uma estratégia eficaz.
 
 ### 2\. Taxa de Churn por Número de Serviços Contratados
+![](IMAGEM_2.png)
 
 Esta visualização ilustra como a quantidade de serviços que um cliente possui se relaciona com sua taxa de Churn.
 
